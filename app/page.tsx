@@ -18,6 +18,7 @@ export default function Page() {
               height={200}
               alt="image"
               className="rounded-full"
+              loading="eager"
             />
           </div>
           <h1 className="text-4xl font-semibold">
