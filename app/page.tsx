@@ -37,20 +37,6 @@ export default function Page() {
           </div>
         </div>
       </div>
-      <div className="w-1/2 mx-auto  text-center h-[calc(100vh-76px)] grid place-items-center">
-        <div className="flex flex-col gap-5">
-          <h1 className="text-4xl font-semibold">
-            Full-Stack Web Developer building scalable, modern web applications.
-          </h1>
-          <p className="font-light text-lg text-gray-400 w-2/3 mx-auto">
-            I design and develop reliable web applications using modern
-            development tools.
-          </p>
-          <div>
-            <Button size={"lg"}>Download Resume</Button>
-          </div>
-        </div>
-      </div>
 
       {/* Contact */}
       <div className=" px-25 text-center flex flex-col gap-3 items-center py-12.5">
